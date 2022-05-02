@@ -97,6 +97,13 @@
             <version>1.0b2</version>
         </dependency>
 
+<!-- https://mvnrepository.com/artifact/org.openjfx/javafx-web -->
+<dependency>
+    <groupId>org.openjfx</groupId>
+    <artifactId>javafx-web</artifactId>
+    <version>17.0.2</version>
+</dependency>
+
 
     </dependencies>
 
